@@ -1,5 +1,3 @@
 [workspace]
-
-members = [
-    "ui",
-]
+members = ["core", "my-template"]
+resolver = "2"
